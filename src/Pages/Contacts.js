@@ -26,7 +26,6 @@ export default class Contacts extends Component{
                         <FormCheck type="checkbox" label="Check me out"/>
                     </FormGroup>
                     <Button variant="primary" type="submit">Submit</Button>
-
                 </Form>
                </Container>
             </div>
