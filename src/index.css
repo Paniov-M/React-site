@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* Header.css */
+.menu {
+  background-color: rgb(201, 120, 79) ;
+}
+
+/* для посилань в меню */
+.header {
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+}
+
+.header:hover {
+  background-color: #fff;
+  color: #000;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+
+/* Home.css */
+
+.image_links {
+  width: 200px;
+  height: 300px;
+}
